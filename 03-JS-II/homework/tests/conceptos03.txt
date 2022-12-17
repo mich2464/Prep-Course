@@ -1,0 +1,10 @@
+Conceptos 
+
+For: es una instrucción donde se otorga un valor a la variable que no deja de ejecutarse, 
+hasta que se encuentre falso.
+
+&&: operador que significa “and” o “y” que nos permitirá saber que los dos valores son iguales.
+
+||: operador “or” “o” que dará la opción entre una u otra variable, puede ser esta o aquella.
+
+!: operador negativo, expresará todo lo contrario al valor booleano.

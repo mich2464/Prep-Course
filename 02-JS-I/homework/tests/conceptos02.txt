@@ -1,0 +1,18 @@
+Conceptos
+
+Variable: es una forma de almacenar o guardar el valor asignado de algo.
+
+Strings: son cadenas de texto que permitirán seguir con la idea o instrucción del texto.
+
+Funciones (argumentos, return): son expresiones que dan algo como resultado, 
+puede ser por ejemplo: una suma que hayas preguntado.
+
+Declaraciones if: es una condicionante a nuestro resultado; por ejemplo: solo si el niño sacó 
+arriba de 8 en su examen aprobó, de ser menor a eso, desaprobó. Lo que quiere decir, 
+es que debemos darle información condicional para que brinde una respuesta (resultado condicionado 
+con la combinación de las otras variantes).
+
+Valores booleanos (true, false): nos permite saber si activamos o no al sistema, 
+por ejemplo: la pregunta es ¿Qué color te gusta más? El verde o el rojo, si la respuesta es el verde 
+se “activará el foco verde” y viceversa. Específicamente en el valor booleano sería 
+¿Te gusta el color verde? Tu respuesta será Sí (Verdadero) o No (Falso).
